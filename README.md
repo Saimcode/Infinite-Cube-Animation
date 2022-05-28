@@ -19,7 +19,7 @@ It's a web-based program so you would need the following:
 ## ❔ Help
 
 Contact me on the links below:
-* [Linkedin](https://www.linkedin.com/in/saim-qureshi-703060234?original_referer=https%3A%2F%2Fsaimcode.github.io%2F)
+* [Linkedin ↗️](https://www.linkedin.com/in/saim-qureshi-703060234?original_referer=https%3A%2F%2Fsaimcode.github.io%2F)
 
 ## 🕔 Version History
 
